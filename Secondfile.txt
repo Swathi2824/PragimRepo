@@ -1,1 +1,2 @@
 changes made by developer1
+git merge modified 
