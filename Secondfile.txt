@@ -1,2 +1,2 @@
 changes made by developer1
-git merge
+git merge modified 
